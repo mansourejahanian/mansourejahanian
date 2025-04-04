@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-
+My name is Mansoure, and I’m a data scientist dedicated to uncovering the hidden stories in healthcare data, using advanced machine learning techniques to drive innovation at the intersection of healthcare 🏥, science 🔬, and technology 💻. 
 
 
 ### Tools I use:
@@ -11,13 +11,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
-
-<a href="https://seaborn.pydata.org/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #268bd2; color: white; padding: 6px 12px; border-radius: 4px; font-family: sans-serif; font-weight: bold;">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" style="height: 20px; margin-right: 8px;">
-  Seaborn
-</a>
 
 
 
