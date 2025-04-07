@@ -12,7 +12,8 @@ My name is Mansoure, and I’m a data scientist dedicated to uncovering the hidd
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-
+![scanpy](https://img.shields.io/badge/scanpy-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+[![scVI](https://img.shields.io/badge/scVI-28a745.svg?style=for-the-badge&logo=python&logoColor=white)](https://scvi-tools.org/)
 
 
 
