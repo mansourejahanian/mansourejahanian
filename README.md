@@ -15,7 +15,7 @@ My name is Mansoure, and I’m a data scientist dedicated to uncovering the hidd
 ![scanpy](https://img.shields.io/badge/scanpy-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 [![scVI](https://img.shields.io/badge/scVI-28a745.svg?style=for-the-badge&logo=python&logoColor=white)](https://scvi-tools.org/)
 
-
+[![scVI](https://img.shields.io/badge/scVI-FFD700.svg?style=for-the-badge&logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaB3sKJnOhnVr6YFYacaLH9f6mAUCH6g6qYVsxxE-1-h_TUM9gkTXN3fiWnt0HtY_xSUM&usqp=CAU&logoColor=white)](https://scvi-tools.org/)
 
 ### Let's Connect!
 
