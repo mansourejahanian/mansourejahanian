@@ -13,8 +13,7 @@ My name is Mansoure, and I’m a data scientist dedicated to uncovering the hidd
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![scanpy](https://img.shields.io/badge/scanpy-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-
-[![scVI](https://img.shields.io/badge/scVI-FFD700.svg?style=for-the-badge&logo=https://raw.githubusercontent.com/YosefLab/scvi-tools/main/docs/images/scvi-tools-icon.png&logoColor=white)](https://scvi-tools.org/)
+[![scvi-tools](https://img.shields.io/badge/scVI-FFD700.svg?style=for-the-badge&logo=&logoColor=white)](https://scvi-tools.org/)
 
 
 ### Let's Connect!
