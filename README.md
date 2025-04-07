@@ -6,13 +6,13 @@ My name is Mansoure, and I’m a data scientist dedicated to uncovering the hidd
 
 ### Tools I use:
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![scanpy](https://img.shields.io/badge/scanpy-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![scanpy](https://img.shields.io/badge/scanpy-D5006D.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://scanpy.readthedocs.io/en/stable/)
 [![scvi-tools](https://img.shields.io/badge/scVI-FFD700.svg?style=for-the-badge&logo=&logoColor=white)](https://scvi-tools.org/)
 
 
